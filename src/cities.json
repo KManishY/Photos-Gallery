@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "population": 18410000,
+    "male_ratio": 0.523,
+    "female_ratio": 0.477
+  },
+  {
+    "id": 2,
+    "name": "Delhi",
+    "state": "Delhi",
+    "population": 11034555,
+    "male_ratio": 0.532,
+    "female_ratio": 0.468
+  },
+  {
+    "id": 3,
+    "name": "Bangalore",
+    "state": "Karnataka",
+    "population": 8443675,
+    "male_ratio": 0.512,
+    "female_ratio": 0.488
+  },
+  {
+    "id": 4,
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "population": 6731790,
+    "male_ratio": 0.516,
+    "female_ratio": 0.484
+  },
+  {
+    "id": 5,
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "population": 5577940,
+    "male_ratio": 0.534,
+    "female_ratio": 0.466
+  },
+  {
+    "id": 6,
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "population": 4681087,
+    "male_ratio": 0.509,
+    "female_ratio": 0.491
+  },
+  {
+    "id": 7,
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "population": 4496694,
+    "male_ratio": 0.499,
+    "female_ratio": 0.501
+  },
+  {
+    "id": 8,
+    "name": "Surat",
+    "state": "Gujarat",
+    "population": 4467797,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 9,
+    "name": "Pune",
+    "state": "Maharashtra",
+    "population": 3124450,
+    "male_ratio": 0.517,
+    "female_ratio": 0.483
+  },
+  {
+    "id": 10,
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "population": 3046163,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 11,
+    "name": "Lucknow",
+    "state": "Uttar Pradesh",
+    "population": 2815601,
+    "male_ratio": 0.518,
+    "female_ratio": 0.482
+  },
+  {
+    "id": 12,
+    "name": "Kanpur",
+    "state": "Uttar Pradesh",
+    "population": 2764962,
+    "male_ratio": 0.512,
+    "female_ratio": 0.488
+  },
+  {
+    "id": 13,
+    "name": "Nagpur",
+    "state": "Maharashtra",
+    "population": 2405665,
+    "male_ratio": 0.515,
+    "female_ratio": 0.485
+  },
+  {
+    "id": 14,
+    "name": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "population": 2035922,
+    "male_ratio": 0.52,
+    "female_ratio": 0.48
+  },
+  {
+    "id": 15,
+    "name": "Indore",
+    "state": "Madhya Pradesh",
+    "population": 1985671,
+    "male_ratio": 0.523,
+    "female_ratio": 0.477
+  },
+  {
+    "id": 16,
+    "name": "Thane",
+    "state": "Maharashtra",
+    "population": 1818872,
+    "male_ratio": 0.525,
+    "female_ratio": 0.475
+  },
+  {
+    "id": 17,
+    "name": "Bhopal",
+    "state": "Madhya Pradesh",
+    "population": 1798218,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 18,
+    "name": "Patna",
+    "state": "Bihar",
+    "population": 1684222,
+    "male_ratio": 0.511,
+    "female_ratio": 0.489
+  },
+  {
+    "id": 19,
+    "name": "Vadodara",
+    "state": "Gujarat",
+    "population": 1636343,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 20,
+    "name": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "population": 1618423,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 21,
+    "name": "Ludhiana",
+    "state": "Punjab",
+    "population": 1545368,
+    "male_ratio": 0.533,
+    "female_ratio": 0.467
+  },
+  {
+    "id": 22,
+    "name": "Agra",
+    "state": "Uttar Pradesh",
+    "population": 1430055,
+    "male_ratio": 0.523,
+    "female_ratio": 0.477
+  },
+  {
+    "id": 23,
+    "name": "Nashik",
+    "state": "Maharashtra",
+    "population": 1407573,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 24,
+    "name": "Faridabad",
+    "state": "Haryana",
+    "population": 1392791,
+    "male_ratio": 0.524,
+    "female_ratio": 0.476
+  },
+  {
+    "id": 25,
+    "name": "Meerut",
+    "state": "Uttar Pradesh",
+    "population": 1305429,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 26,
+    "name": "Rajkot",
+    "state": "Gujarat",
+    "population": 1288423,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 27,
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "population": 1198491,
+    "male_ratio": 0.514,
+    "female_ratio": 0.486
+  },
+  {
+    "id": 28,
+    "name": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "population": 1180570,
+    "male_ratio": 0.516,
+    "female_ratio": 0.484
+  },
+  {
+    "id": 29,
+    "name": "Aurangabad",
+    "state": "Maharashtra",
+    "population": 1175115,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 30,
+    "name": "Dhanbad",
+    "state": "Jharkhand",
+    "population": 1162448,
+    "male_ratio": 0.515,
+    "female_ratio": 0.485
+  },
+  {
+    "id": 31,
+    "name": "Amritsar",
+    "state": "Punjab",
+    "population": 1132383,
+    "male_ratio": 0.532,
+    "female_ratio": 0.468
+  },
+  {
+    "id": 32,
+    "name": "Navi Mumbai",
+    "state": "Maharashtra",
+    "population": 1115357,
+    "male_ratio": 0.523,
+    "female_ratio": 0.477
+  },
+  {
+    "id": 33,
+    "name": "Allahabad",
+    "state": "Uttar Pradesh",
+    "population": 1115195,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 34,
+    "name": "Howrah",
+    "state": "West Bengal",
+    "population": 1072160,
+    "male_ratio": 0.515,
+    "female_ratio": 0.485
+  },
+  {
+    "id": 35,
+    "name": "Ranchi",
+    "state": "Jharkhand",
+    "population": 1044211,
+    "male_ratio": 0.512,
+    "female_ratio": 0.488
+  },
+  {
+    "id": 36,
+    "name": "Gwalior",
+    "state": "Madhya Pradesh",
+    "population": 1039934,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 37,
+    "name": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "population": 1030168,
+    "male_ratio": 0.525,
+    "female_ratio": 0.475
+  },
+  {
+    "id": 38,
+    "name": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "population": 1005793,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 39,
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "population": 995000,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 40,
+    "name": "Madurai",
+    "state": "Tamil Nadu",
+    "population": 977856,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 41,
+    "name": "Raipur",
+    "state": "Chhattisgarh",
+    "population": 956073,
+    "male_ratio": 0.518,
+    "female_ratio": 0.482
+  },
+  {
+    "id": 42,
+    "name": "Kota",
+    "state": "Rajasthan",
+    "population": 951047,
+    "male_ratio": 0.525,
+    "female_ratio": 0.475
+  },
+  {
+    "id": 43,
+    "name": "Chandigarh",
+    "state": "Chandigarh",
+    "population": 916350,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 44,
+    "name": "Guwahati",
+    "state": "Assam",
+    "population": 899094,
+    "male_ratio": 0.517,
+    "female_ratio": 0.483
+  },
+  {
+    "id": 45,
+    "name": "Solapur",
+    "state": "Maharashtra",
+    "population": 872478,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 46,
+    "name": "Hubli–Dharwad",
+    "state": "Karnataka",
+    "population": 856575,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 47,
+    "name": "Bareilly",
+    "state": "Uttar Pradesh",
+    "population": 845913,
+    "male_ratio": 0.533,
+    "female_ratio": 0.467
+  },
+  {
+    "id": 48,
+    "name": "Moradabad",
+    "state": "Uttar Pradesh",
+    "population": 830990,
+    "male_ratio": 0.519,
+    "female_ratio": 0.481
+  },
+  {
+    "id": 49,
+    "name": "Mysore",
+    "state": "Karnataka",
+    "population": 827420,
+    "male_ratio": 0.532,
+    "female_ratio": 0.468
+  },
+  {
+    "id": 50,
+    "name": "Gurgaon",
+    "state": "Haryana",
+    "population": 826671,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 51,
+    "name": "Aligarh",
+    "state": "Uttar Pradesh",
+    "population": 825972,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 52,
+    "name": "Jalandhar",
+    "state": "Punjab",
+    "population": 820970,
+    "male_ratio": 0.533,
+    "female_ratio": 0.467
+  },
+  {
+    "id": 53,
+    "name": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "population": 819874,
+    "male_ratio": 0.521,
+    "female_ratio": 0.479
+  },
+  {
+    "id": 54,
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "population": 803121,
+    "male_ratio": 0.524,
+    "female_ratio": 0.476
+  },
+  {
+    "id": 55,
+    "name": "Salem",
+    "state": "Tamil Nadu",
+    "population": 778396,
+    "male_ratio": 0.516,
+    "female_ratio": 0.484
+  },
+  {
+    "id": 56,
+    "name": "Mira-Bhayandar",
+    "state": "Maharashtra",
+    "population": 779441,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 57,
+    "name": "Warangal",
+    "state": "Telangana",
+    "population": 759592,
+    "male_ratio": 0.513,
+    "female_ratio": 0.487
+  },
+  {
+    "id": 58,
+    "name": "Thiruvananthapuram",
+    "state": "Kerala",
+    "population": 752490,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 59,
+    "name": "Guntur",
+    "state": "Andhra Pradesh",
+    "population": 743354,
+    "male_ratio": 0.532,
+    "female_ratio": 0.468
+  },
+  {
+    "id": 60,
+    "name": "Bhiwandi",
+    "state": "Maharashtra",
+    "population": 736074,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 61,
+    "name": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "population": 705478,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 62,
+    "name": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "population": 692519,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 63,
+    "name": "Bikaner",
+    "state": "Rajasthan",
+    "population": 647804,
+    "male_ratio": 0.524,
+    "female_ratio": 0.476
+  },
+  {
+    "id": 64,
+    "name": "Amravati",
+    "state": "Maharashtra",
+    "population": 646801,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 65,
+    "name": "Noida",
+    "state": "Uttar Pradesh",
+    "population": 642381,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 66,
+    "name": "Jamshedpur",
+    "state": "Jharkhand",
+    "population": 629659,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 67,
+    "name": "Bhilai",
+    "state": "Chhattisgarh",
+    "population": 625697,
+    "male_ratio": 0.534,
+    "female_ratio": 0.466
+  },
+  {
+    "id": 68,
+    "name": "Cuttack",
+    "state": "Odisha",
+    "population": 610189,
+    "male_ratio": 0.519,
+    "female_ratio": 0.481
+  },
+  {
+    "id": 69,
+    "name": "Firozabad",
+    "state": "Uttar Pradesh",
+    "population": 603797,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 70,
+    "name": "Kochi",
+    "state": "Kerala",
+    "population": 602046,
+    "male_ratio": 0.521,
+    "female_ratio": 0.479
+  },
+  {
+    "id": 71,
+    "name": "Nellore",
+    "state": "Andhra Pradesh",
+    "population": 600869,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 72,
+    "name": "Bhavnagar",
+    "state": "Gujarat",
+    "population": 593768,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 73,
+    "name": "Dehradun",
+    "state": "Uttarakhand",
+    "population": 578420,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 74,
+    "name": "Durgapur",
+    "state": "West Bengal",
+    "population": 566517,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 75,
+    "name": "Asansol",
+    "state": "West Bengal",
+    "population": 563917,
+    "male_ratio": 0.525,
+    "female_ratio": 0.475
+  },
+  {
+    "id": 76,
+    "name": "Rourkela",
+    "state": "Odisha",
+    "population": 552981,
+    "male_ratio": 0.523,
+    "female_ratio": 0.477
+  },
+  {
+    "id": 77,
+    "name": "Nanded",
+    "state": "Maharashtra",
+    "population": 550564,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 78,
+    "name": "Kolhapur",
+    "state": "Maharashtra",
+    "population": 549236,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 79,
+    "name": "Ajmer",
+    "state": "Rajasthan",
+    "population": 542321,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 80,
+    "name": "Akola",
+    "state": "Maharashtra",
+    "population": 537248,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 81,
+    "name": "Gulbarga",
+    "state": "Karnataka",
+    "population": 532031,
+    "male_ratio": 0.525,
+    "female_ratio": 0.475
+  },
+  {
+    "id": 82,
+    "name": "Jamnagar",
+    "state": "Gujarat",
+    "population": 529308,
+    "male_ratio": 0.532,
+    "female_ratio": 0.468
+  },
+  {
+    "id": 83,
+    "name": "Ujjain",
+    "state": "Madhya Pradesh",
+    "population": 515215,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 84,
+    "name": "Loni",
+    "state": "Uttar Pradesh",
+    "population": 504396,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 85,
+    "name": "Siliguri",
+    "state": "West Bengal",
+    "population": 500353,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 86,
+    "name": "Jhansi",
+    "state": "Uttar Pradesh",
+    "population": 502000,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 87,
+    "name": "Ulhasnagar",
+    "state": "Maharashtra",
+    "population": 506098,
+    "male_ratio": 0.532,
+    "female_ratio": 0.468
+  },
+  {
+    "id": 88,
+    "name": "Nellore",
+    "state": "Andhra Pradesh",
+    "population": 506329,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 89,
+    "name": "Jammu",
+    "state": "Jammu and Kashmir",
+    "population": 502197,
+    "male_ratio": 0.522,
+    "female_ratio": 0.478
+  },
+  {
+    "id": 90,
+    "name": "Sangli-Miraj & Kupwad",
+    "state": "Maharashtra",
+    "population": 509000,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 91,
+    "name": "Belgaum",
+    "state": "Karnataka",
+    "population": 505421,
+    "male_ratio": 0.529,
+    "female_ratio": 0.471
+  },
+  {
+    "id": 92,
+    "name": "Mangalore",
+    "state": "Karnataka",
+    "population": 504096,
+    "male_ratio": 0.527,
+    "female_ratio": 0.473
+  },
+  {
+    "id": 93,
+    "name": "Ambattur",
+    "state": "Tamil Nadu",
+    "population": 479512,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  },
+  {
+    "id": 94,
+    "name": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "population": 473637,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 95,
+    "name": "Malegaon",
+    "state": "Maharashtra",
+    "population": 471006,
+    "male_ratio": 0.53,
+    "female_ratio": 0.47
+  },
+  {
+    "id": 96,
+    "name": "Gaya",
+    "state": "Bihar",
+    "population": 463454,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 97,
+    "name": "Jalgaon",
+    "state": "Maharashtra",
+    "population": 460468,
+    "male_ratio": 0.533,
+    "female_ratio": 0.467
+  },
+  {
+    "id": 98,
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "population": 451100,
+    "male_ratio": 0.526,
+    "female_ratio": 0.474
+  },
+  {
+    "id": 99,
+    "name": "Maheshtala",
+    "state": "West Bengal",
+    "population": 441605,
+    "male_ratio": 0.528,
+    "female_ratio": 0.472
+  },
+  {
+    "id": 100,
+    "name": "Tirupur",
+    "state": "Tamil Nadu",
+    "population": 444352,
+    "male_ratio": 0.531,
+    "female_ratio": 0.469
+  }
+]

@@ -1,8 +1,11 @@
+import Gallery from "./components/Gallery/Gallery";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <div>
-      <h1>hello</h1>
+      <Navbar />
+      <Gallery/>
     </div>
   );
 }

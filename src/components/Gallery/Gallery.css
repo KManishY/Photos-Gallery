@@ -1,0 +1,32 @@
+.gallery {
+    display: grid;
+    gap: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    /* Tablet screens */
+    .gallery {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    /* Desktop screens */
+    .gallery {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+  
+  .image-card {
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
+  
